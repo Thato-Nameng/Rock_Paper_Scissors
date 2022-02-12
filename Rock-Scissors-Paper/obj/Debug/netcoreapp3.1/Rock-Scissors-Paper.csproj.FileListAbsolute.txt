@@ -1,0 +1,14 @@
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.exe
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.deps.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.runtimeconfig.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.runtimeconfig.dev.json
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.dll
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\bin\Debug\netcoreapp3.1\Rock-Scissors-Paper.pdb
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.csproj.AssemblyReference.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.AssemblyInfoInputs.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.AssemblyInfo.cs
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.csproj.CoreCompileInputs.cache
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.dll
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.pdb
+C:\Users\MAADTEE\source\repos\C# Programming for Absolute beginners\PART III\C21 Improving Loops\Rock-Scissors-Paper\Rock-Scissors-Paper\obj\Debug\netcoreapp3.1\Rock-Scissors-Paper.genruntimeconfig.cache
